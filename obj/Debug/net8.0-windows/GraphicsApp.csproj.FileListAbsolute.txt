@@ -1,0 +1,17 @@
+E:\University\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.exe
+E:\University\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.deps.json
+E:\University\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.runtimeconfig.json
+E:\University\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.dll
+E:\University\GraphicsApp\bin\Debug\net8.0-windows\GraphicsApp.pdb
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.Form1.resources
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.csproj.GenerateResource.cache
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.AssemblyInfoInputs.cache
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.AssemblyInfo.cs
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.csproj.CoreCompileInputs.cache
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.sourcelink.json
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.dll
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\refint\GraphicsApp.dll
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.pdb
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\GraphicsApp.genruntimeconfig.cache
+E:\University\GraphicsApp\obj\Debug\net8.0-windows\ref\GraphicsApp.dll
