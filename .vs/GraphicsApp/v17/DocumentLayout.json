@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\University\\GraphicsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|e:\\university\\graphicsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|e:\\university\\graphicsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|E:\\University\\GraphicsApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|e:\\university\\graphicsapp\\graphicfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|E:\\University\\GraphicsApp\\graphicfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|solutionrelative:graphicfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|e:\\university\\graphicsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9514334C-FB62-4E96-B742-D56097A59ED5}|GraphicsApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +22,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\University\\GraphicsApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\University\\GraphicsApp\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAADwvzEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T02:03:33.998Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GraphicFunction.cs",
               "DocumentMoniker": "E:\\University\\GraphicsApp\\GraphicFunction.cs",
               "RelativeDocumentMoniker": "GraphicFunction.cs",
               "ToolTip": "E:\\University\\GraphicsApp\\GraphicFunction.cs",
               "RelativeToolTip": "GraphicFunction.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowCcAAAAQAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T01:49:01.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\University\\GraphicsApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

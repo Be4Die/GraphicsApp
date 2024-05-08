@@ -55,7 +55,7 @@
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 40F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Absolute, 40F));
-            tableLayoutPanel1.Size = new Size(800, 450);
+            tableLayoutPanel1.Size = new Size(798, 450);
             tableLayoutPanel1.TabIndex = 0;
             // 
             // functionsComboBox
@@ -88,7 +88,7 @@
             scaleTrackBar.Maximum = 99;
             scaleTrackBar.Minimum = 1;
             scaleTrackBar.Name = "scaleTrackBar";
-            scaleTrackBar.Size = new Size(794, 34);
+            scaleTrackBar.Size = new Size(792, 34);
             scaleTrackBar.TabIndex = 2;
             scaleTrackBar.Value = 50;
             scaleTrackBar.ValueChanged += OnScaleValueChanged;
@@ -99,7 +99,7 @@
             pictureBox.Dock = DockStyle.Fill;
             pictureBox.Location = new Point(3, 43);
             pictureBox.Name = "pictureBox";
-            pictureBox.Size = new Size(794, 364);
+            pictureBox.Size = new Size(792, 364);
             pictureBox.TabIndex = 3;
             pictureBox.TabStop = false;
             pictureBox.Paint += OnPaintPictureBox;
@@ -111,8 +111,11 @@
             BackColor = Color.FromArgb(45, 53, 59);
             ClientSize = new Size(800, 450);
             Controls.Add(tableLayoutPanel1);
+            MinimumSize = new Size(469, 390);
             Name = "Form1";
-            Text = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Lab 3 Graphics App";
+            Load += OnFormLoad;
             Resize += OnFromResize;
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel1.PerformLayout();

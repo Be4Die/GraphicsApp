@@ -12,6 +12,7 @@ namespace GraphicsApp
             var funcs = GraphicFunction.GetAllFunctions();
             functionsComboBox.DataSource = funcs;
             _graphicFunctions = funcs[0];
+            _graphicsScale = scaleTrackBar.Value;
         }
 
 
@@ -49,6 +50,11 @@ namespace GraphicsApp
         }
 
         private void OnFromResize(object sender, EventArgs e)
+        {
+            pictureBox.Invalidate();
+        }
+
+        private void OnFormLoad(object sender, EventArgs e)
         {
             pictureBox.Invalidate();
         }
